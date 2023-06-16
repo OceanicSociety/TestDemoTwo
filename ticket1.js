@@ -17,3 +17,4 @@ console.log("Sum:", result);
 
 greet("GitKraken");
 //fixing bug for release v0.1.0
+//hotfix for v0.1.1
