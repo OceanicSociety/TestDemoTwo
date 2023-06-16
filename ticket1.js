@@ -9,7 +9,7 @@ function calculateSum(a, b) {
 function greet(name) {
   console.log("Hello, " + name + "!");
 }
-
+//new commit to ticket 1
 // Example usage of the functions
 var result = calculateSum(5, 3);
 console.log("Sum:", result);
