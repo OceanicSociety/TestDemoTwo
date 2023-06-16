@@ -16,3 +16,4 @@ var result = calculateSum(5, 3);
 console.log("Sum:", result);
 
 greet("GitKraken");
+//fixing bug for release v0.1.0
